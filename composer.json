@@ -1,0 +1,9 @@
+{
+	"name":"vic/vic_bluepay",
+	"license": "MIT",
+    "type": "project",
+    "description": "Blue Pay Payment gatepay",
+    "autoload": {
+        "files": [ "lib/VIC/BLUEPAY/BluePay.php" ]
+    }
+}
