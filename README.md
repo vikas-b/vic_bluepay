@@ -1,2 +1,2 @@
 # vic_bluepay
-Plue Pay Payment Gateway
+Blue Pay Payment Gateway
